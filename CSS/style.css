@@ -381,3 +381,7 @@ canvas {
         opacity: 1;
     }
 }
+
+.side_image{
+    border-radius: 50%;
+}
