@@ -224,7 +224,7 @@ h3 {
     top: 0;
     left: 50%;
     transform: translate(-50%);
-    max-width: 350px;
+    max-width: 380px;
     object-fit: cover;
 }
 
